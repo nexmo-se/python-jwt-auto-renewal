@@ -68,8 +68,11 @@ To update your own Python application using Vonage Python Server SDK (version 3.
 copy/paste from script-auth-renews.py file the code in both sections marked between following lines
 
 #===== Add this section to your actual Python code =====
+<br>
 ...
+<br>
 ...
+<br>
 #================== End add section =====================
 
 
