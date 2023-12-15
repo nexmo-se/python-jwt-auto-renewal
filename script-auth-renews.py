@@ -12,7 +12,7 @@ import datetime
 
 import threading
 authDuration = 960 # Auth validity duration after renewal - 16 minutes (960 seconds)
-authInterval = 900 # Auth renewal timer - 15 minutes (840 seconds)
+authInterval = 900 # Auth renewal timer - 15 minutes (900 seconds)
 
 #================== End add section =====================
 
