@@ -65,7 +65,7 @@ kill -9 <process_id>
 
 To update your own Python application using Vonage Python Server SDK (version 3.12.0 or later) to handle JWT (Auth) auto-renewal,
 
-copy/paste from script-auth-renews.py file the code in both sections marked between following lines
+copy/paste from script-auth-renews.py file the code from both sections marked between following lines
 
 #===== Add this section to your actual Python code =====
 <br>
@@ -73,7 +73,7 @@ copy/paste from script-auth-renews.py file the code in both sections marked betw
 <br>
 ...
 <br>
-#================== End add section =====================
+#============== End add section ==================
 
 
 
